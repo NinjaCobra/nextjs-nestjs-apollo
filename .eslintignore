@@ -1,0 +1,5 @@
+node_modules
+dist
+/scripts
+build
+test/apps/react-routing/e2e
